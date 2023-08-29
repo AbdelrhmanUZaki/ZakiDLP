@@ -31,7 +31,8 @@
       - I'll show you `first`: videos that has already audio with it, `second`: the highest and lowest size video options for each quality that already has no audio, and I'll merge the best audio file with it, with them sizes -after adding the best audio size to the size of the video only.
       - Extension for videos that will be merged specified by the tool `yt-dlp`, the tool will choose the best ext depending on the merging process
       - There is a horizontal line between them
-      - ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/1f864752-445a-4189-bc38-22c7e9fc1f9d) 
+      -  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/1f864752-445a-4189-bc38-22c7e9fc1f9d) 
+     
 ### For playlists:
   - Playlist title.
   - Number of items.
@@ -40,6 +41,8 @@
   - Resolution.
   - Printing "Item downloaded" after each item download completed.
   - An info messagebox with sound to inform you that the full playlist has been downloaded.
+  - For Audios:
+    - You'll have two options High/Low (audio quality)
   - For videos:
     - All will be in .mp4 extension. 
     - You'll see the usual list 144p, 240p...etc, and the tool will try to download that quality, each video quality in playlist will be printed to you
