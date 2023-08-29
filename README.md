@@ -3,11 +3,11 @@
 #### You can download the exe file from []
 
 ## Workflow
-- Input url
-- Choose a radio button that you need
-- Choose your quailty
-- Choose save location
-- Start download
+- Input url.
+- Choose a radio button that you need.
+- Choose your quailty.
+- Choose save location.
+- Start download.
   
 ## Requirements
 - You need no requirements
