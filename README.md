@@ -1,6 +1,6 @@
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on yt-dlp, the cli program that downloads midea from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
-#تجربة
+
 ## Getting Started
 #### You can download the executable files from [releases](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases).
 #### Or directly download once [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip) zipped file.
