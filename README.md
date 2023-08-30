@@ -3,6 +3,7 @@
 
 ## Getting Started
 #### You can download the executable file from [releases](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases).
+#### Or directly download [The current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/archive/refs/tags/v1.0.0.zip).
 
 ## Workflow
 - Input url.
