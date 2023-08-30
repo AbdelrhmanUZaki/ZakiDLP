@@ -57,5 +57,4 @@
 ### Over time I will add more websites with more features inshallah.
 
 - Pics of the app:
-  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/470df401-d021-4ca5-8ca5-cb8318b2b63d)
-  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/59f34c8d-f10a-4351-9634-f1e046123c68)
+
