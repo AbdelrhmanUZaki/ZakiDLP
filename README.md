@@ -1,6 +1,6 @@
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on yt-dlp, the cli program that downloads from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
-#### You can download the executable file from [releases](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases)
+#### You can download the executable file from [releases](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases).
 
 ## Workflow
 - Input url.
