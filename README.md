@@ -37,6 +37,7 @@
       -  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/1f864752-445a-4189-bc38-22c7e9fc1f9d) 
      
 ### For playlists:
+  - All playlist will be downloaded in a file with its name.
   - Playlist title.
   - Number of items.
   - Uploader name.
