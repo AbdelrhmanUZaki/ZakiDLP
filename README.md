@@ -4,7 +4,7 @@
 ## Getting Started
 #### You can download [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip) as one file.
 
-## Workflow
+## How to use:
 - Input url.
 - Choose a radio button that you need [ Single/Playlist | Audi/Video ]
 - Choose your quailty.
