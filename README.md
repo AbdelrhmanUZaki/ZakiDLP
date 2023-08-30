@@ -1,5 +1,5 @@
 # ZakiDLP (A GUI for yt-dlp)
-#### Based on yt-dlp, the cli program that downloads from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
+#### Based on yt-dlp, the cli program that downloads midea from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 #### You can download the executable file from [releases](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases).
 
 ## Workflow
@@ -20,17 +20,18 @@
 - For video that is in a playlist, you can download the full playlist using this link as if it were the playlist link.
 
 ###  For single media:
-  - Duration of the file.
+  - The file Duration.
   - The file Title.
-  - The file extension.
+  - The file extension (for audio/video that has audio originally)
   - The file size.
-  - Printing "Item downloaded" only when download completed.
+  - Informing you when download completed.
   - For audio:
-    - I"ll show you all available audio options with them sizes.
+    - You'll see all available audio options with them sizes.
   -  For video:
-      - I'll show you `first`: videos that has already audio with it, `second`: the highest and lowest size video options for each quality that already has no audio, and I'll merge the best audio file with it, with them sizes -after adding the best audio size to the size of the video only.
+      - `first`: Videos that has already audio with it,
+      - `second`: The highest and lowest size video options for each quality that already has no audio, and `ZakiDLP` will merge the best audio file with it, with them sizes, after adding the best audio size to the size of the video only to get the actuall size that will be downloaded.
       - Extension for videos that will be merged specified by the tool `yt-dlp`, the tool will choose the best ext depending on the merging process
-      - There is a horizontal line between them
+      - There is a horizontal line To separete them.
       -  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/1f864752-445a-4189-bc38-22c7e9fc1f9d) 
      
 ### For playlists:
