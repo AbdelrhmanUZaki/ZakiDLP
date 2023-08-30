@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Abood</string>
+   <string>ZakiDLP </string>
   </property>
   <property name="styleSheet">
    <string notr="true">font: 10pt &quot;MS Shell Dlg 2&quot;
@@ -348,7 +348,14 @@ p, li { white-space: pre-wrap; }
     <property name="title">
      <string>File</string>
     </property>
+    <widget class="QMenu" name="menuFollow_us">
+     <property name="title">
+      <string>Follow us</string>
+     </property>
+     <addaction name="actionGitHub"/>
+    </widget>
     <addaction name="actionSupported_websites"/>
+    <addaction name="menuFollow_us"/>
    </widget>
    <addaction name="menuInfo"/>
   </widget>
@@ -361,6 +368,11 @@ p, li { white-space: pre-wrap; }
   <action name="actionSettings">
    <property name="text">
     <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionGitHub">
+   <property name="text">
+    <string>GitHub</string>
    </property>
   </action>
  </widget>
