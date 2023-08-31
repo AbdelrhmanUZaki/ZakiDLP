@@ -38,7 +38,8 @@
       - `second`: The highest and lowest size video options for each quality that already has no audio, and `ZakiDLP` will merge the best audio file with it, with them sizes, after adding the best audio size to the size of the video only to get the actuall size that will be downloaded.
       - Extension for videos that will be merged specified by the tool `yt-dlp`, the tool will choose the best ext depending on the merging process
       - There is a horizontal line To separete them.
-      -  ![image](https://github.com/AbdelrhmanUZaki/ZakiDLP/assets/99971020/1f864752-445a-4189-bc38-22c7e9fc1f9d) 
+        <img src="images\Qualities dropdown list.png" alt="Qualities dropdown list"  width="60%">
+
      
 ### For playlists:
   - All playlist will be downloaded in a file with its name.
