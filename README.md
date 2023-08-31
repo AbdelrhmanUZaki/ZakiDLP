@@ -6,7 +6,7 @@
   <img src="images\Single completed.png" alt="Single video downloaded" width="85%">
 
 ## Getting Started
-#### You can download [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip) as one file.
+#### You can download the app from [releases section](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases) or directly download [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip).
 
 ## How to use:
 - Input url.
