@@ -57,7 +57,7 @@
     - You'll see the usual list 144p, 240p...etc, and the tool will try to download that quality,
     - Each video quality in playlist will be printed to you to know the actuall res that any video will be in.
     - If the selected quality is not available for the specific video in the playlist, the best quality lower than specified one will be downloaded.
-	<img src="images\Item quality lower than others.png" alt="Item quality lower than others image"  width="60%">
+		<img src="images\Item quality lower than others.png" alt="Item quality lower than others image"  width="85%">
 
     - If there is no qualities lower than it, the higher quality than it will be downloaded.
         
