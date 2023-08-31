@@ -18,8 +18,16 @@
 ## Requirements
 - You need no requirements
 
+## Current supported websites:
+- Youtube [Single video]
+- Youtube [Playlist]
+- Soundcloud [Single audio]
+- Soundcloud [Playlist]
+- Soundcloud [User content]
+
+
+
 ## Features
-- Currently, my app works fine with YouTube, SoundCloud, for a single media or a playlist AND it works on windows only.
 - To pause the downloading, just close the app :)
 - To resume whenever you want, just choose same settings, and it will continue from where it stopped.
 - For the same file with the same extension, you can't download it with different qualities, as the tool `yt-dlp` see that it is the same -and printing that it downloaded it but actually it is the old one- so instead, rename the old one and it will download the new one.
