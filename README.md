@@ -2,8 +2,8 @@
 #### Based on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a cli program that downloads media from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
 
-  <img src="images\First look.png" alt="First look image"  width="49%">
-  <img src="images\Single completed.png" alt="Single video downloaded" width="49%">
+  <img src="images\First look.png" alt="First look image"  width="75%">
+  <img src="images\Single completed.png" alt="Single video downloaded" width="75%">
 
 ## Getting Started
 #### You can download [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip) as one file.
