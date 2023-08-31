@@ -1,6 +1,11 @@
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a cli program that downloads media from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
+<div style="display: flex;">
+  <img src="images\First look.png" alt="First look image" style="width: 50%; height: auto;">
+  <img src="images\Single completed.png" alt="Single video downloaded" style="width: 50%; height: auto;">
+</div>
+
 ## Getting Started
 #### You can download [the current version](https://github.com/AbdelrhmanUZaki/ZakiDLP/releases/download/v1.0.0/ZakiDLP.v1.0.0.zip) as one file.
 
