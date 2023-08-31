@@ -64,6 +64,3 @@
     - If there is no qualities lower than it, the higher quality than it will be downloaded.
         
 ### Over time I will add more websites with more features inshallah.
-
-- Pics of the app:
-
