@@ -6,7 +6,7 @@
 
 ## How to use:
 - Input url.
-- Choose a radio button that you need [ Single/Playlist | Audi/Video ]
+- Choose a radio button that you need [ Single/Playlist | Audio/Video ]
 - Choose your quailty.
 - Choose save location.
 - Start download.
