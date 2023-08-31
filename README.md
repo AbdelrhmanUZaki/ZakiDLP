@@ -1,3 +1,13 @@
+<style>
+  .image-container {
+    display: flex; /* Use flexbox for layout */
+  }
+  .image-container img {
+    width: 50%; /* Each image takes 50% of the container's width */
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
+
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a cli program that downloads media from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
