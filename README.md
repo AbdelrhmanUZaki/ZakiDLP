@@ -50,6 +50,8 @@
   - Resolution.
   - Printing "Item downloaded" after each item download completed.
   - An info messagebox with sound to inform you that the full playlist has been downloaded.
+		<img src="images\Playlist completed.png" alt="Playlist completed image"  width="85%">
+
   - For Audios:
     - You'll have two options High/Low (audio quality)
   - For videos:
