@@ -1,8 +1,7 @@
 """
-This is a PyQt5 lib with yt-dlp -a command line program- app to make
-it easier for people to download online content
-via a simple GUI
+A GUI version of yt-dlp built in PyQt5 to make it easier to use.
 """
+
 from os.path import join, dirname
 from re import search
 from threading import Thread
@@ -15,6 +14,7 @@ from PyQt5.uic import loadUiType
 from webbrowser import open
 
 Form_CLASS, _ = loadUiType(join(dirname(__file__), "main.ui"))
+
 
 
 class MainApp(QMainWindow, Form_CLASS):
