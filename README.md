@@ -73,3 +73,5 @@
     - If there is no qualities lower than it, the higher quality than it will be downloaded.
         
 ### Over time I will add more websites with more features inshallah.
+### Support
+If you like this project, give it a ⭐ and share it with friends!
