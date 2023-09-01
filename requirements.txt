@@ -1,4 +1,4 @@
-yt-dlp==latest
-validators==latest
-humanize==latest
-PyQt5==latest
+yt-dlp==2023.7.6
+validators==0.21.2
+humanize==4.8.0
+PyQt5==5.15.9
