@@ -1,3 +1,3 @@
 .idea/
-ffmpeg.exe/
-ffprobe.exe/
+ffmpeg.exe
+ffprobe.exe
