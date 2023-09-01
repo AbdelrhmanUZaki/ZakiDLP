@@ -1,6 +1,6 @@
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a cli program that downloads media from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
-[![Repo Views](https://img.shields.io/badge/Repo%20Views-100-blue)](https://github.com/AbdelrhmanUZaki/ZakiDLP)
+![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/AbdelrhmanUZaki/ZakiDLP)
 
 
   <img src="images\First look.png" alt="First look image"  width="85%">
