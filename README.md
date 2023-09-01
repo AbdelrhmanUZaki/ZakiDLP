@@ -1,6 +1,5 @@
 # ZakiDLP (A GUI for yt-dlp)
 #### Based on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a cli program that downloads media from [various websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
-[![HitCount](https://hits.dwyl.com/abdelrhmanuzaki/ZakiDLP.svg?style=flat-square)](http://hits.dwyl.com/abdelrhmanuzaki/ZakiDLP)
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/AbdelrhmanUZaki/ZakiDLP)
 
 
