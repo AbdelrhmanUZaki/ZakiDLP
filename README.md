@@ -73,5 +73,9 @@
     - If there is no qualities lower than it, the higher quality than it will be downloaded.
         
 ### Over time I will add more websites with more features inshallah.
+
+### Contribution
+feel free to look at [issues section](https://github.com/AbdelrhmanUZaki/ZakiDLP/issues) to solve some issues or add your own!
+
 ### Support
 If you like this project, give it a ⭐ and share it with friends!
