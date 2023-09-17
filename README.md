@@ -22,6 +22,8 @@
 ## Current supported websites:
 - Youtube [Single video]
 - Youtube [Playlist]
+- Youtube [Shorts]
+
 - Soundcloud [Single audio]
 - Soundcloud [Playlist]
 - Soundcloud [User content]
